@@ -3,7 +3,7 @@
 Wenrui Li, Zhengyu Ma, Liang-Jian Deng and Xiaopeng Fan.  
 The code is based on [AVCA](https://github.com/ExplainableML/AVCA-GZSL) and tested on Ubuntu 20.04 with torch 1.13.
 ### Downloading features
-The features and dataset structure could download and placed the same as AVCA.
+The features and dataset structure could download and placed the same as [AVCA](https://github.com/ExplainableML/AVCA-GZSL).
 ## Evaluation
 ### Dowloading pre-trained models
 [Here](https://drive.google.com/file/d/1HK9_dwysfQv56smXYK4lRA7dvSKpE_DE/view?usp=sharing), you can download our trained AVMST models and baselines which are located in `pretrain_model.zip`
