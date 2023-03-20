@@ -11,7 +11,7 @@ Put the content of `pretrain_model.zip` in the `runs/` folder.
 ### Test on three benchmark datasets
 Here is an example for evaluating AVMST on Vggsound-GZSL using SeLaVi features.
 ``` 
-python get_evaluation.py --load_path_stage_A runs/attention_ucf_vggsound_main --load_path_stage_B runs/attention_vggsound_all_main  --dataset_name UCF --AVMST 
+python get_evaluation.py --load_path_stage_A runs/attention_ucf_vggsound_main --load_path_stage_B runs/attention_vggsound_all_main  --dataset_name VGGSound --AVMST 
 ```
 ## References 
 Please cite our paper if you find the work useful:
